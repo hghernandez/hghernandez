@@ -1,4 +1,4 @@
-Untitled
+Hernan Hernandez
 ================
 
 ## Hola 👋🏼
@@ -21,7 +21,6 @@ salud 🩺 y finanzas 💳, siempre en relación con los datos 📈.
 
 # Contacto
 
-🌐 Para ver algunos proyectos y conocer de mi [mi sitio
-web](%5Bhttps://hghernandez.github.io%5D(https://hghernandez.github.io/))
+🌐 Para ver algunos proyectos y conocer de mi [mi sitio web](%5Bhttps://hghernandez.github.io%5D(https://hghernandez.github.io/))
 
 📫 Mi [correo electrónico](hernanghernandez@gmail.com)
