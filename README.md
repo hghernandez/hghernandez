@@ -22,4 +22,4 @@ salud 🩺 y finanzas 💳, siempre en relación con los datos 📈.
 
 🌐 Para ver algunos proyectos y conocer de mi [mi sitio web](https://hghernandez.github.io)
 
-📫 Mi [correo electrónico](hernanghernandez@gmail.com)
+📫 Mi correo electrónico [hernanghernandez@gmail.com](hernanghernandez@gmail.com)
